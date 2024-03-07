@@ -1,3 +1,5 @@
+#### personal search for Metagpt
+won't be used for commercial use
 
 # MetaGPT: The Multi-Agent Framework
 
