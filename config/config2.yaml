@@ -1,0 +1,16 @@
+llm:
+  # api_type: "openai"  # or azure / ollama etc.
+  # base_url: "https://api.chatanywhere.com.cn/v1"
+  # api_key: "sk-fZV6epQyXyTUHNxtentqWshqfADVUqDWszUIpdaX5PNerUjC"
+  # model: "gpt-4-1106-preview"  # or gpt-3.5-turbo-1106 / gpt-4-1106-preview
+  
+  api_type: "openai"  # or azure / ollama etc.
+  base_url: "https://api.chatanywhere.com.cn/v1"
+  api_key: "sk-iWbh1fFyIJMHfjYHBCtuUI8dLmu6K0juuIAqztHftYtJpyFN"
+  model: "gpt-3.5-turbo"  # or gpt-3.5-turbo-1106 / gpt-4-1106-preview
+
+  # api_type: "openai"  # or azure / ollama etc.
+  # base_url: "https://api.chatanywhere.com.cn/v1"
+  # api_key: "sk-fZV6epQyXyTUHNxtentqWshqfADVUqDWszUIpdaX5PNerUjC"
+  # model: "gpt-4-1106-preview"  # or gpt-3.5-turbo-1106 / gpt-4-1106-preview
+
